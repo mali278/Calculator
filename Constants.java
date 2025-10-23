@@ -16,10 +16,4 @@ public class Constants {
 
     public static final Color CUSTOM_BLACK = new Color(28, 28, 28);
 
-
-
-
-
-
-
 }
