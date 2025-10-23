@@ -92,8 +92,6 @@ public class Calculator {
             }
             buttonsPanel.add(button);
 
-
-            JButton button2 = new JButton();
             button.addActionListener(new ActionListener(){
                 @Override
                 public void actionPerformed(ActionEvent i){
